@@ -37,7 +37,7 @@ p {
   width: 1158px;
   padding: 0;
   margin: 0;
-  outline: solid 1px #E7E9FC;
+  outline: solid 1px #e7e9fc;
   text-align: center;
 }
 a {
@@ -59,12 +59,11 @@ a {
   display: flex;
   gap: 40px;
   padding-left: 332px;
-  
 }
 .container-nav {
   width: 1158px;
   padding: 24px 12px;
-  outline: solid 1px #E7E9FC;
+  outline: solid 1px #e7e9fc;
   display: flex;
 }
 .header-navigation {
@@ -247,10 +246,9 @@ a {
   border-radius: 4px;
   margin-top: 96px;
   margin-bottom: 72px;
-  
 }
-.container-portfolio{
-    padding-left: 12px;
+.container-portfolio {
+  padding-left: 12px;
 }
 .portfolio-list-btn {
   display: flex;
@@ -267,7 +265,7 @@ a {
   margin-bottom: 120px;
 }
 .portfolio-item {
-    outline: solid 1px #E7E9FC;
+  outline: solid 1px #e7e9fc;
 }
 .portfolio-button:hover {
   background: var(--main-link-color);
